@@ -1,10 +1,8 @@
 @extends('admin.master')
 @section('title')
-    All Products
+Quoatation
 @endsection
-@section('title')
-    All Products
-@endsection
+
 @section('content')
 @push('styles')
     <link rel="stylesheet" href="{{asset("assets/admin/vendor/sweetalert2/dist/sweetalert2.min.css")}}">
@@ -13,11 +11,11 @@
         <!-- row -->
         <div class="container-fluid">
             <div class="mb-sm-3 d-flex flex-wrap align-items-center text-head">
-                <h2 class="mb-3 me-auto">All Products</h2>
+                <h2 class="mb-3 me-auto">Quoatation</h2>
                 <div>
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="/admin/dashboard">Home</a></li>
-                        <li class="breadcrumb-item"><a href="/admin/all-products">All Products</a></li>
+                        <li class="breadcrumb-item"><a href="/admin/all-products">Quoatation</a></li>
                     </ol>
                 </div>
             </div>

@@ -1,0 +1,1 @@
+{"result":{"text":"22 over 44 cross times 220 space equals space ?"},"status":"ok"}

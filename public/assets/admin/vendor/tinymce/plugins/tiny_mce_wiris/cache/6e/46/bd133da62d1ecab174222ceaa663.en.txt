@@ -1,0 +1,1 @@
+{"result":{"text":"integral fraction numerator x plus cos invisible function application 6 x over denominator 3 x to the power of 2 end exponent plus sin invisible function application 6 x end fraction"},"status":"ok"}

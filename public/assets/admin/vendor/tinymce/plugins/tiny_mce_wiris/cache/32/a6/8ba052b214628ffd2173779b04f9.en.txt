@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 22 space equals space 55 over 67"},"status":"ok"}

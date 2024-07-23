@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator partial differential f over denominator partial differential x end fraction equals fraction numerator negative 6 over denominator x squared end fraction comma fraction numerator partial differential f over denominator partial differential y end fraction equals 2 over x cubed y plus 8 y squared"},"status":"ok"}

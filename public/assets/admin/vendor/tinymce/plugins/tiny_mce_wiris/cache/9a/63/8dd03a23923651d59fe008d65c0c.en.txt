@@ -1,0 +1,1 @@
+{"result":{"text":"integral fraction numerator 1 plus cos invisible function application 4 x over denominator cot invisible function application x minus tan invisible function application x end fraction d x"},"status":"ok"}

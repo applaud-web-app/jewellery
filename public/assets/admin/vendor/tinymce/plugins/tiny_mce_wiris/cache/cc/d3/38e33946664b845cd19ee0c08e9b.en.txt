@@ -1,0 +1,1 @@
+{"result":{"text":"L o g vertical line fraction numerator x plus 1 over denominator x plus 2 end fraction vertical line plus C"},"status":"ok"}

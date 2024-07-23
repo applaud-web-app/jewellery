@@ -1,0 +1,1 @@
+{"result":{"text":"integral 6 x left parenthesis x squared plus 6 right parenthesis d x"},"status":"ok"}

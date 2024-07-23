@@ -258,8 +258,7 @@
         ***********************************-->
         <div class="footer">
             <div class="copyright">
-                <p>Copyright © Designed &amp; Developed by <a href="https://applaudwebmedia.com/"
-                        target="_blank">Applaud Web Media</a> 2023</p>
+                <p>Copyright © 2024. All rights reserved. </p>
             </div>
         </div>
         <!--**********************************

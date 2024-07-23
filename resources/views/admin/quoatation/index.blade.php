@@ -1,6 +1,6 @@
 @extends('admin.master')
 @section('title')
-All Product
+All Quotation
 @endsection
 @section('content')
 @push('styles')
@@ -13,11 +13,11 @@ All Product
     <!-- row -->
     <div class="container-fluid">
         <div class="mb-sm-3 d-flex flex-wrap align-items-center text-head">
-            <h2 class="mb-3 me-auto">All Product</h2>
+            <h2 class="mb-3 me-auto">Quotation</h2>
             <div>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="/admin/dashboard">Home</a></li>
-                    <li class="breadcrumb-item"><a href="/admin/all-orders">Product</a></li>
+                    <li class="breadcrumb-item"><a href="/admin/all-orders">Quotation</a></li>
                 </ol>
             </div>
         </div>

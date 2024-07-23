@@ -1,6 +1,6 @@
 @extends('admin.master')
 @section('title')
-Quoatation
+Quotation 
 @endsection
 
 @section('content')
@@ -11,11 +11,11 @@ Quoatation
         <!-- row -->
         <div class="container-fluid">
             <div class="mb-sm-3 d-flex flex-wrap align-items-center text-head">
-                <h2 class="mb-3 me-auto">Quoatation</h2>
+                <h2 class="mb-3 me-auto">Quotation</h2>
                 <div>
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="/admin/dashboard">Home</a></li>
-                        <li class="breadcrumb-item"><a href="/admin/all-products">Quoatation</a></li>
+                        <li class="breadcrumb-item"><a href="/admin/all-products">Quotation</a></li>
                     </ol>
                 </div>
             </div>

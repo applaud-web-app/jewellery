@@ -73,7 +73,11 @@
                                 </div>
                             </div> --}}
                         </div>
+                        
                         <ul class="navbar-nav header-right">
+                            <li class="nav-item recipe">
+                                <a href="{{url('admin/quoatation')}}" class="btn btn-primary btn-rounded"><i class="fas fa-plus pe-2"></i>Create</a>
+                                </li>
                             <li class="nav-item dropdown  header-profile">
                                 <a class="nav-link" href="javascript:void(0);" role="button" data-bs-toggle="dropdown">
                                     <img src="/uploads/user/{{Auth::user()->image}}" width="56" alt="" />

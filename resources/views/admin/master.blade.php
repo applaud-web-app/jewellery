@@ -147,6 +147,7 @@
                             <span class="nav-text">Products</span>
                         </a>
                         <ul aria-expanded="false">
+                            <li><a href="{{url('admin/market-price')}}">Stamp Market Price</a></li>
                             <li><a href="{{url('admin/quoatation')}}">All Products({{Common::productCount()}})</a></li>
                             <li><a href="{{url('admin/categories')}}">Categories ({{Common::categoryCount()}})</a></li>
                         </ul>

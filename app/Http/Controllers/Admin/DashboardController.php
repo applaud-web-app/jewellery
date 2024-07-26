@@ -14,6 +14,9 @@ use Auth;
 class DashboardController extends Controller
 {
     public function dashboard(){
+        if(!Auth::check()){
+            return redirect()->back();
+        }
         $product = Product::Where('status',1)->count();
         $order = Order::count();
         $user = User::Where('u_type',2)->where('status',1)->count();

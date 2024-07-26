@@ -15,6 +15,9 @@ class AuthMiddleware
      */
     public function handle(Request $request, Closure $next): Response
     {
+        if(!Auth::check()){
+            return redirect('/');
+        }
         if(Auth::user()->u_type!=1){
             return redirect('/');
         }
